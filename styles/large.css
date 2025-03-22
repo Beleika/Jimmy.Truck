@@ -1,0 +1,23 @@
+
+
+
+@media only screen and (min-width: 32.5em)
+
+{
+
+
+footer {
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	padding: 10px;
+	background-color:  #03054b;
+	padding-top: 35px;
+  }
+
+  .cleaningTitle{
+	font-size: 1.5rem;
+  }
+
+
+}
